@@ -1,1 +1,1 @@
-gcr.io/cadvisor/cadvisor:v0.47.1
+prom/alermanager：0.27.0 
