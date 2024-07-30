@@ -1,1 +1,1 @@
-gcr.io/cadvisor/cadvisor:v0.49.1
+prom/node-exporter:v1.81
